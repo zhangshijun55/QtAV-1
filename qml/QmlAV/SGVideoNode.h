@@ -23,6 +23,7 @@
 #define QTAV_SGVIDEONODE_H
 
 #include <QtQuick/QSGGeometryNode>
+#include <QSGMaterial>
 #include <QtAV/VideoFrame.h>
 
 namespace QtAV {
